@@ -471,3 +471,11 @@ aside li {
 .account-logout {
   display: inline-block;
 }
+svg.icon.icon-search {
+    height: 2rem;
+    width: 2rem;
+    fill: none;
+    vertical-align: middle;
+    padding: 0;
+    margin: 0 1rem;
+}
